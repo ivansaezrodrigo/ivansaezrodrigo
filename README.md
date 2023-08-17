@@ -2,7 +2,7 @@
   
 <h1 align="center">Buenas, mi nombre es Iván  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="Banner del perfil :)" src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Técnico+titulado+medio y superior;Administrador de Sistemas Informáticos y Redes;Desarrollador+de+aplicaciones+web;Técnico en sistemas microinformáticos y redes;Entusiasta de UI, UX+y+Graphic Design;¡Siempre aprendiendo cosas nuevas!&color=25B345&center=true&width=600&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="Banner del perfil :)" src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Técnico+titulado+medio%20y%20superior;Administrador%20de%20Sistemas%20Informáticos%20y%20Redes;Desarrollador+de+aplicaciones+web;Técnico%20en%20sistemas%20microinformáticos%20y%20redes;Entusiasta%20de%20UI,%20UX+y+Graphic%20Design;¡Siempre%20aprendiendo%20cosas%20nuevas!&color=25B345&center=true&width=600&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Apasionado y autodidacta del sector informático. Poseo tres grados, dos superiores y un medio, experiencia en el sector orientado a la seguridad informática y la programación web.</h4>
