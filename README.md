@@ -1,14 +1,15 @@
 
   
 <h1 align="center">Buenas, mi nombre es Iván  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<hr>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Técnico+titulado+medio%20y%20superior;Administrador%20de%20Sistemas%20Informáticos%20y%20Redes;Desarrollador+de+aplicaciones+web;Técnico%20en%20sistemas%20microinformáticos%20y%20redes;Entusiasta%20de%20UI,%20UX+y+Graphic%20Design;¡Siempre%20aprendiendo%20cosas%20nuevas!&color=25B345&center=true&width=600&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Técnico+titulado+medio y superior;Administrador de Sistemas Informáticos y Redes;Desarrollador+de+aplicaciones+web;Técnico en sistemas microinformáticos y redes;Entusiasta de UI, UX+y+Graphic Design;¡Siempre aprendiendo cosas nuevas!&color=25B345&center=true&width=600&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Apasionado y autodidacta del sector informático. Poseo tres grados, dos superiores y un medio, experiencia en el sector orientado a la seguridad informática y la programación web.</h4>
 
-## 🔥 Sobre mi
+
+
+## 🔥 Sobre mi -  [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iván-sáez-rodrigo-15713a151/)
 Además de mis títulos oficiales tengo nociones acerca del hacking ético, pentesting y desarrollo web con tecnologías como PHP, Laravel, Apache, Node, React, Figma... A nivel organizativo, destaco mi habilidad para gestionar proyectos y mantener una colaboración proactiva con el equipo. También tengo una buena capacidad de comunicación, tanto técnica como no técnica, lo que me permite interactuar y transmitir ideas tanto a compañeros de trabajo como a futuros clientes, resolver problemas y compartir ideas sobre proyectos. Tengo experiencia en metodologías Agiles y la suite de microsoft, me gustaría crecer profesionalmente ya sea aprendiendo nuevas tecnologías como mejorando el nivel de las actuales. Estoy abierto a responder cualquier duda que pueda surgir o interés sobre mi persona.
 <br>
 
@@ -74,5 +75,3 @@ Además de mis títulos oficiales tengo nociones acerca del hacking ético, pent
   	<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2300C4CC.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
  </p>
 <hr>
-
-
