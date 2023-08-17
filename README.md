@@ -68,11 +68,11 @@ Además de mis títulos oficiales tengo nociones acerca del hacking ético, pent
  
 ### 👉Graphic Designing
 <p align="left">
+   &emsp;
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
    &emsp; 
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
     &emsp;
   	<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2300C4CC.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
-    &emsp;
  </p>
 <hr>
