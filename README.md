@@ -22,7 +22,7 @@ Además de mis títulos oficiales tengo nociones acerca del hacking ético, pent
   &emsp; 
     <img alt="React" src="https://img.shields.io/badge/React%20-%2300599C.svg?logo=React&logoColor=white">
   &emsp;
-  <img alt="React Native" src="https://img.shields.io/badge/React%20-%2300599C.svg?logo=React&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20-%2300599C.svg?logo=React Native&logoColor=white">
   &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   &emsp;
